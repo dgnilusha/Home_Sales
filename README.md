@@ -4,15 +4,8 @@ Home Sales Data Analysis with PySpark
 
 In this project, we will analyze home sales data using PySpark. We will perform various data processing and analysis tasks, including creating temporary views, calculating average prices, caching tables, partitioning data, and measuring query runtimes.
 
-Getting Started
-Repository Setup:
-
-Ensure you have Apache Spark and PySpark set up and configured on your system.
-Use Jupyter Notebook or your preferred IDE for Python to work on this project.
-
-File Organization:
-
 Project Tasks
+
 Task 1: Data Loading and Setup
 Import the necessary PySpark SQL functions for this assignment.
 
