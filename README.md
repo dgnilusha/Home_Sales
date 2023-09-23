@@ -8,13 +8,12 @@ Project Tasks
 
 Task 1: Data Loading and Setup
 Import the necessary PySpark SQL functions for this assignment.
-
 Read the "home_sales_revised.csv" data into a Spark DataFrame.
 Create a temporary table called "home_sales" using Spark SQL.
 
 Task 2: Data Analysis with SparkSQL
-Answer the following questions using SparkSQL:
 
+Answer the following questions using SparkSQL:
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
 What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
